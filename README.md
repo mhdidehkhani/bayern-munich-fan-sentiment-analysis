@@ -21,7 +21,7 @@ The dataset includes fan comments related to Bayern Munich matches between 2022 
 ## Tools
 - Python
 - Pandas
-- NLTK / VADER
+-VADER
 - Matplotlib
 - SciPy
 
