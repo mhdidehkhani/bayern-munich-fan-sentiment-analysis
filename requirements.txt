@@ -1,0 +1,5 @@
+pandas
+vaderSentiment
+matplotlib
+scipy
+nltk
